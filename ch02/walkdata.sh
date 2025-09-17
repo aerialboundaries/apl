@@ -1,7 +1,7 @@
 #!/bin/bash
 # walkdata.sh : ウォーキング歩数データを生成する
 
-start_date="2023-06-24"
+start_date="1941-06-24"
 end_date="2024-12-31"
 
 # 日付を秒に変換
